@@ -1,6 +1,8 @@
 # [Android]Wifi_TouchPad
 手机触摸板，可作为电脑的触摸板、键盘使用
 
+![预览图](https://raw.githubusercontent.com/0x5e/Wifi_TouchPad/master/preview.png)
+
 ## 主要功能
 
 - 触摸控制鼠标，短按为单击，长按为拖拽
